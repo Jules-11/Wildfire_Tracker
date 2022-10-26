@@ -1,3 +1,8 @@
+# API Configuration
+
+In the Map.js file you should replace API_KEY with a valid google map API KEY
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
